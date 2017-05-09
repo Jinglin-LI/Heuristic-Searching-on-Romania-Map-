@@ -1,4 +1,4 @@
-Implement heuristic searching on the Romania Map by three different heuristic:
+Implement heuristic searching on the Romania Map by three different heuristic function:
 
  * 1) straight distance
  * 2) f = (1 - w)g + wh, where w = 0.25
